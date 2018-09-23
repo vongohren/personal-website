@@ -1,4 +1,4 @@
-baseURL = "http://localhost:4999/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Snorre Lothar von Gohren Edwin"
 theme = "coder"
