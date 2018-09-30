@@ -14,12 +14,10 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
 
 [params] # theme parameters
     author = "Snorre Lothar von Gohren Edwin" # Author's name.
-    info = "Kiting Full Stack blockchainer with a dose DevOps" # Author's job title or info.
+    info = "Kiting Full-Stack blockchainer with a dose DevOps" # Author's job title or info.
     description = "Snorre Lothar von Gohren Edwin's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/profile.jpg" # Contain the path of the optionnal avatar in the static folder.
-
-    footercontent = "Welcome, do as you please, contact me if you want" # Add footer content
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
@@ -30,6 +28,17 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
 
     # RTL support
     rtl = false
+
+[params.footer]
+    text = "Welcome, do as you please" # Add footer content
+    mail = "contact@vongohren.me"
+
+[params.job]
+    info = "Currently CTO at " # Author's job title, use info if that is enough
+    name = "Diwala" #This will come at the end of the sentence
+    url = "https://diwala.io/"
+
+
 
 # Social links
 [[params.social]]
