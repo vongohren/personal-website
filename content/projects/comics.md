@@ -14,4 +14,8 @@ tags:
   - "scrape"
 ---
 
-# Comic feed on slack(for now, maybe something more in the future)
+**URL:** https://comics.vongohren.me/
+
+Like comics?
+---------
+Get them either in your slack channel or do something great with them in RSS

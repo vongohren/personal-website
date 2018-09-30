@@ -9,3 +9,5 @@ meta = "false" #Do not display tags or categories
 This is me, I'm a avid kiter and a technology enthusiast
 
 I do believe blockchain will be an important piece of the future architecture of the internet.
+
+Have a look at my talks or projects!
