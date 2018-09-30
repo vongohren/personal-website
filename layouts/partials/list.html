@@ -1,15 +1,15 @@
 <section class="container list">
     <h1 class="title">{{ .Title }}</h1>
     <ul>
-        {{ range .Paginator.Pages }}
+      {{ range .Paginator.Pages }}
         <li>
         {{ if eq .Type "projects" }}
             <a href="{{ .URL }}">{{ .Title }}</a>
         {{ else }}
-            <span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .URL }}">{{ .Title }}</a>
+            <span class="year-date">{{ .Date.Format "2006, January 2" }}</span><a href="{{ .URL }}">{{ .Title }}</a>
         {{ end }}
         </li>
-        {{ end }}
+      {{ end }}
     </ul>
     {{ partial "pagination.html" . }}
 </section>
