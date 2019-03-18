@@ -1,5 +1,5 @@
 ---
-title: "Oppstartsmøte for faggruppen Blockchain"
+title: "Dataforeningen oppstartsmøte for faggruppen Blockchain"
 description: "Introductory meeting for a blockchain working group"
 date: "2018-09-18"
 categories:

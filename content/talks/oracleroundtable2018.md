@@ -15,3 +15,5 @@ tags:
 ---
 
 https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x520810abcd
+
+![Oracle Program site](/images/oracleproof.png)
