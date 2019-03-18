@@ -53,6 +53,10 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
     name = "LinkedIn"
     weight = 3
     url = "https://www.linkedin.com/in/vongohren/"
+[[params.social]]
+    name = "Talerlisten"
+    weight = 4
+    url = "https://talerlisten.no/profil/snorre-lothar-von-gohren-edwin/"
 
 # Menu links
 [[menu.main]]
