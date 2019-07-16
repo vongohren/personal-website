@@ -64,14 +64,20 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
     weight = 1
     url  = "/projects/"
 [[menu.main]]
+    name = "Posts"
+    weight = 2
+    url = "/posts/"
+[[menu.main]]
     name = "Talks"
-    weight = 1
+    weight = 3
     url  = "/talks/"
 [[menu.main]]
     name = "About"
-    weight = 2
+    weight = 4
     url = "/about/"
 [[menu.main]]
-    name = "Articles"
-    weight = 2
+    name = "Media & Press"
+    weight = 5
     url = "/articles/"
+
+

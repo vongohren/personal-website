@@ -1,0 +1,122 @@
++++
+date = "2019-07-15"
+title = "How i put a process on life"
+math = "true"
+
++++
+
+# How i put a process on life
+
+This is a beginning of a couple of write-ups giving insight to how I was able to stop forgetting, stop stressing about to do's and initiatives, better sense of completion, a greater ability to execute and much more focus. This write-up starts as an intro to my path of change. In the bottom you can see som clear results of this change.
+
+Also I just want to share that I have put myself up for a writing challenge, that is one of the reasons I'm sharing this. I want to better express my thoughts in writing and be able to get across important insights and ideas digitally and formally. Im working on a write up with reasons, values and outcomes of this [here](https://gist.github.com/vongohren/db9a3256d0d8b61acde61e78755ecf4f)
+
+## Why I had to change
+
+Some time back I got tired of not following up on my written notes, saved lists, thoughts and endless to-do’s. I had notes on paper, on some kind of app (..or three), web apps, and probably on a few desktop apps as well. I had tasks with notes in my calendar. I had ‘likes for later’ on Twitter, ‘saved favorites’ on Medium, ‘watch later movies’ on YouTube, ‘want to read tags’ on Goodread, ‘pocketed urls’ on Pocket, and last but not least, the worst, bookmarked urls or open tabs in the browser to catch up on. It was the worst, it felt bad to close my browser window!
+
+It was a hopeless mess, and for some reason I rarely managed to do anything with the things I wanted to follow up on. I never executed thoughts I had from my notes, and instead I was a master of procrastination hoping that I for various reasons would be able to catch up with things later. The curse of procrastination was clear and my wasted time went to the grave with the saved notes, likes, favorites, and opened tabs.
+
+![Messy workstation with notes and stuff](https://i.imgur.com/TGUIdaU.jpg)
+
+Photo by [Robert Bye](https://unsplash.com/@robertbye) on [Unsplash](https://unsplash.com/photos/BY34glOW7wA)
+
+## What change was needed
+
+To be able to make a real change, I realized that I had to dedicate time to find a solution that would work for the long haul. I was on a mission to find the ONE flexible platform that exists on all devices, so that my thoughts, notes, likes, videos and articles could be collected in no time!
+
+The most important factor for this mission was ‘in no time’. Collecting thoughts and to-do’s had to be done efficiently, and not end up adding more work. This was not because everything had to go fast, but I could not add a system to my life that would consume more time than it would return in value. 
+
+I wanted to go from the chaos on the left to the process on the right!
+
+![This was one of the processes I needed to achieve](https://docs.google.com/drawings/d/e/2PACX-1vQMsUWiqLIASLkRX9TFgCFSjVMTQOT70mSCQifCNmjySYTgewyil1vJLgP_jBgdg32pupuKfwOt7Kg0/pub?w=1139&h=386)
+
+This is where critical thinking was key, to not be tempted by sleek cool things because they were technically awesome, but find something that would give me value.
+
+## Exploration journey
+
+So with a critical thinking mindset, first phase would be to figure out the main criterias for a working system, then evalute existing systems and find something that match.
+
+I needed a tool that was easy to get familiar with and had the following attributes **(PS: Some of these attributes came with experience, so I did not have all these from day 1, but wanted to share them with you so you could undergo the same exploration)**:
+
+* A wast community of addons, integrations and possibilites, to be able to automate things and get help from other services
+* Open apis for automations and fast tweaks. This is mostly a repetition from the latter, but I am a developer, so having access to the APIs, means that there would possibilities to build my own small solutions on top.
+* Wide range of possibilites for different types of data objects, such as images, lists, deep link attachments and so on. To be able to gather all the different information a task/project might come in.  So I have all I need one place.
+* Possibility for contextual note taking. To be able to have one place, one context for writing down my toughts. And I can then see over time how that task or project evolved. One line in a notebook, does not leave much room for flexibility.
+* Flexible in how a organization setup can be. To be able to use whatever metodology I wanted, f.ex [GTD](https://gettingthingsdone.com/)
+* Have a time aspect deeply rooted into the app, to be able to build a good follow up routine of notifications and calender overview.
+* Exist on multiple devices, to be able to get an overview wherever I want.
+
+The first applications that popped up was Evernote and Google Keep. They are great with syncing, have some integrations and would probably work fine. However, I had a bad experience with both of them. This was before I knew what I needed and I did not have the right mindset to properly get into it. I continued my research and went through other applications like Pocket, Flipboard, Pinterest and Pinboard. Unfortunately none of them really fulfilled my needs. They were all too specialized towards the one or few problems they tried to solve.
+
+Learning from my work days, and the agile methodologies and applications in use there, I started to search within that context. Suddenly I had Jira, Monday, Trello, Asana, Basecamp, pluss many more and felt a bit overwhelmed. Some fell away because of pricing for one person, but with many options left, I decided that I needed something that was free, and I was familiar with to do a quick test of my criterias.
+
+I had previously been working with Trello and I knew some of its possibilities. So after some initial tests I became familiar with the application with my current mindset. I learned more about ecosystem created add-ons, and the open api. It was easy for contextual note taking and supported a wide range of data types, with even a good date option. So after a couple of tests and feeling a bit overwhelmed of the possibilities, the decision fell for Trello. I needed to start somewhere!
+
+## Execution time
+With the decision of Trello, I needed to go all in. There was no way back now. The process of choosing only one application was very important to me, as using multiple platforms to fulfil my needs would most likely ended up in the same problem that I already had. However, deciding on one application was only the first step of my journey, my initial tests was just small checkboxes of the criterias. I had to spend time finding the good tweaks for Trello, and that could only happen over time and with the dedication of sticking to one, chosen system.
+
+To fully dedicate myself to Trello, I blocked out half an hour every morning and every evening for the next month to check and follow up on my Trello routine. This was to try to establish the habit of using this one application as the only place for my thoughts and notes. My inspiration for making this a new habit, came through some of the habitual change excersises from [this book](https://www.goodreads.com/book/show/29492266-change-your-habits-change-your-life)
+
+# Day 1+++
+To start off, I made three main lists: Todo, Doing and Done. I had not read up on any methodologies or how to go about it. The mention of GTD and that it was a criteria, came in much later, after I saw that things had to change.
+
+![enter image description here](https://lh3.googleusercontent.com/tsMf5uwsZJzRf4N8hT5PIpBFLLnef4fW0Hin2h-mmcT3VHdw8q2D9wJTWCYIFVkNsy07Dfw1-4ugEA "Trello beginning")
+
+I started small and lean, just to test out one application and collection point. In the beginning the Trello notes(also known as cards) had no dates on them, I was not "owner" of any notes, and the board grew. I had no process for priortization, following up or executing. I acctually ended up with procrastinating Trello, even with the forced calender entry, because it did not feel like it was adding value.
+
+I had no good routines for being able to differentiate the cards on importance or other filtering methods included in Trello. The cards disappeared among all the other cards and I was not able to use the board to execute.
+
+It is important to evaluate and reflect on your own processes from time to time, and try to set of a periodic reminder to do the evaluation. This a process for many good teams, and should also happen in many aspects of our lives.
+
+I realized I had to implement some changes after the evaluation, and reasearched some features with Trello to cover my needs. I needed better ways to inform me when things had to be done, and a way to search and sift through tasks.
+
+Trello has cool features for notification and filtering as long as the cards have some contextual values on them. Such as your face/profile(so you are watching the card) and a date. I realized that if my face was not on the cards, only dates, I could not utalize the whole ecosystem Trello had. Such as upcoming tasks on the home screen and notifications for me. This is because Trello is mainly made for teamwork, and in that situation, it makes more sense to give ownership of tasks to team members. But this is a one man team, and I own all the tasks!
+
+Giving cards a date, gave the cards a time dimension. This gave me a way to prioritize the cards I wanted to follow up. It also allowed me to add cards that would not be prioritized for many months! Which was a great win, I could now trust that I would remember to do stuff in X months! Which could be used for many different things. Such as kickstarting the planning of a party that will be in one year. Start collecting thoughts on what you can do for friends birthdays, a good time ahead. And many more.
+
+Following, you can see the working card for this article. It has me as a member, a due date, that I unfortunately had to postpone some more. But that is not that terrible, I got some more work done on the task. It also has a description, some attached cards for creating more context for myself, and fast connections for random thoughts. Also comments for more notes for myself, which again will have a date, so I can understand when I throw in my notes.
+
+![enter image description here](https://lh3.googleusercontent.com/PdIHgTm6wLAASynLAY8CrLT9g39IjyYOBRTZIQrlwcPi_OqiQqcTRwdvHb2aZvjhpAsy3xCvIpwUYA "A card im working on!")
+
+## Input process & GTD(Getting things done)
+
+As I mentioned earlier, things had to be "collected in no time!". 
+In a more detailed article I will explain how you can set this up for yourself. I have started the work on [this link](https://github.com/vongohren/myposts/blob/master/My%20trello%20input%20process.md), but be aware, this is just thoughts and work in progress, for now!
+
+Just to give you a taste of what I put in the tought of "collected in no time": It means that I could collect my thought, interesting article, tweet, video, webpage with a simple click and a note, in some kind of way. I'm currently enabling this through apps like https://ifttt.com/ or https://zapier.com/. They are automation tools connecting many services across the big wide web, and these apps combined with https://butlerfortrello.com/, have been all the automation I need, to be able achieve the goal of "collect in no time" and not "consuming to much time, but still provide value". 
+
+Getting the automation up, gave me time to evaluate the process itself, as I try to do reguralry. Nothing is perfect and things change, so you have to do your own evaluations to achieve progress. 
+
+That is when I found GTD, Getting Things Done, which helped me see what parts was missing in my current process, so I started to implement parts of that method.
+
+[GTD](https://gettingthingsdone.com/) is quite simple, as explained in [this article]( https://hamberg.no/gtd/). But my key take-away from that was that [GTD](https://gettingthingsdone.com/) forces you to add initial action points, context and structure to tasks — getting things out of your mind and into a space where you can start working on them. 
+
+> “Your mind is for having ideas, not holding them” David Allen
+
+My current process had similiarities with GTD, but I was missing one key feature they introduce, and that was the Inbox. All new thoughts, whims, sources of inspiration would end up in one Inbox, which I process daily or every other day.
+
+When used properly, GTD is a foolproof system that helps you take your vague ideas, whims, inspirations, and late night musings, and turn them into actions. The idea is that once you trust your system, your brain will stop trying to keep track of everything, thus reducing stress and freeing up brain-​power for more productive things. Sounds awesome, right?
+
+# Results and the way of life
+It is time summarize how a good process of beeing notified on important things, find and search for the tasks I want to work with, and having a great input process have improved parts of my life. 
+
+ - I now have a system I can trust, which means that I rearly forget important things. Thanks to just having one system, combined with due dates and notifications.
+ - I'm able to follow up side projects properly, and put in an hour here and there. Thanks to the possibility to build context around projects and tasks within the project. And quickly give an hours effort to something, because I know where I left off. And with due dates and calender functions, I'm able to plan when I want to put some extra effort into things.
+ - I let this process drip into work, and combine personal work related items with open work related items. This helps me prioritize and follow up important work items. And also follow up items that live in the work boards which needs a personal reminder that has to be pulled forward.
+ - I feel that I am able to start and execute bigger tasks and projects. That is because I'm able to start with some action points, I don't have to finish the task because the contextual note taking holds the current status for me, and I can progress forward slowly but steadily. Meaning that I can even get big projects done that has a deadline, because I can start early enough in progressing the task forward.
+ - And it is worth a mention that this process improves my way of reading more books and articles than I have ever before. Because I can collect and prioritize what I want to read, and I also [pushing them to kindle](https://fivefilters.org/kindle-it/) for reading
+
+Because I dedicated to Trello, set up the process that fits me and having enough notification and automations to not be an intrusion, I see that I am able to generate more value in my life. 
+
+I use [https://ollertapp.com](https://ollertapp.com/) to get an overview of my data and see what is happning on my board for free. This comes back to critical thinking, am I able to find something free that can give me value, without endulging in creating a solution myself, which would have been quite time consuming. This is also where I can see results. The graph under showcases my cards accumulating and growing endlessly. Not showing any form of shrinking, until late 2018. Then I added a better process, did a evaluation and tweaked it towards [GTD](https://gettingthingsdone.com/) Then you can see a flat burn, with a curve going downwards in these days. Lately I have again adjusted my process a bit to be more efficient.
+
+![](https://lh3.googleusercontent.com/-hhhNpTsKYCIIIXeZJyvKh3fmg_GtdoexX4MCdBkzO8EGsCl-h7-A2S230Lz8BeLFq-JT2c3E4U_zg "Flat burn")
+
+Another cool thing is that I can see an overview of what is the majority of my tasks. This way I can also see what I focus on in periods, and what I should focus more on for example
+
+![](https://lh3.googleusercontent.com/AF4O8CFpS1pngYCzVX37yHr_sOHV4m3BIaOgldtGMxRg4siCGGyU92rsuaTTdI-rfP6Oo55E2NoQzQ "Lables for my task")
+
+Another good example, is that I had a task running for about 3 months. This was a task that included multiple people to follow up, having to store and create multiple documents and negotiation with different parties. Then it has been really important for me to always have the context of the current status available, have a "ledger" of history with my thoughts that I could work with, and of course, to be able to work with the task, push it a couple of days, and then pick it up quickly, with all the context I need.
+
+Trello is not the only solution, but it gave me enough flexibility to be able to achieve more efficiency. This is now a way of life that I'm hoping to tell share with you and maybe inspire you to take action!
