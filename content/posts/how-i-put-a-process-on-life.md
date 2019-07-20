@@ -1,4 +1,8 @@
-
++++
+date = "2019-07-15"
+title = "How i put a process on life"
+math = "true"
++++
 # How I put a process on life
 
 This is a beginning of a couple of write-ups giving insight to how I was able to stop forgetting, stop stressing about to do's and initiatives, a better sense of completion, a greater ability to execute and much more focus. This write-up starts as an intro to my path of change. In the bottom, you can see som clear results of this change.
@@ -116,5 +120,5 @@ Another good example is that I had a task running for about 3 months. This was a
 Trello is not the only solution, but it gave me enough flexibility to be able to achieve more efficiency. This is now a way of life that I'm hoping to tell share with you and maybe inspire you to take action!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4NDMxMDM1XX0=
+eyJoaXN0b3J5IjpbLTE0NTI3Mjc5MjAsNzU4NDMxMDM1XX0=
 -->
