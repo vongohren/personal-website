@@ -118,3 +118,6 @@ Another cool thing is that I can see an overview of what is the majority of my t
 Another good example is that I had a task running for about 3 months. This was a task that included multiple people to follow up, having to store and create multiple documents and negotiation with different parties. Then it has been really important for me to always have the context of the current status available, have a "ledger" of history with my thoughts that I could work with, and of course, to be able to work with the task, push it a couple of days, and then pick it up quickly, with all the context I need.
 
 Trello is not the only solution, but it gave me enough flexibility to be able to achieve more efficiency. This is now a way of life that I'm hoping to tell share with you and maybe inspire you to take action!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI4MDcyMjQ2Ml19
+-->
