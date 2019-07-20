@@ -20,5 +20,5 @@ The panel I attended:
 
 {{< youtube st4VVLb3_94 >}}
 
-![Techfugee panel attendees](/images/techfugeepanel.png)
-![Techfugee workshop attendees](/images/techfugeeworkshop.png)
+![Techfugee panel attendees](images/techfugeepanel.png)
+![Techfugee workshop attendees](images/techfugeeworkshop.png)
