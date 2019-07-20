@@ -4,7 +4,7 @@ image: dettmering/hugo-build
 
 pages:
   script:
-    - hugo
+    - hugo version
   artifacts:
     paths:
       - public
