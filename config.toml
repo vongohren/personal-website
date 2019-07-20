@@ -1,4 +1,4 @@
-baseURL = "personal-webpage/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Snorre Lothar von Gohren Edwin"
 theme = "coder"
