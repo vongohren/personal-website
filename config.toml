@@ -1,10 +1,10 @@
-baseURL = "/personal-webpage"
+baseURL = "/"
 languageCode = "en-us"
 title = "Snorre Lothar von Gohren Edwin"
 theme = "coder"
 
 paginate = 20 # Default number of pages per page in pagination.
-#canonifyurls = true # Enable to turn relative URLs into absolute.
+canonifyurls = true # Enable to turn relative URLs into absolute.
 
 pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
