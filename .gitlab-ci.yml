@@ -11,8 +11,8 @@ pages:
   only:
     - master
 
-# test:
-#   script:
-#     - hugo
-#   except:
-#     - master
+test:
+  script:
+    - hugo version
+  except:
+    - master
