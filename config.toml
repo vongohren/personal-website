@@ -1,4 +1,4 @@
-baseURL = "https://vongohren.gitlab.io/personal-webpage/"
+baseURL = "personal-webpage/"
 languageCode = "en-us"
 title = "Snorre Lothar von Gohren Edwin"
 theme = "coder"
