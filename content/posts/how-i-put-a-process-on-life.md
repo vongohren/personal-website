@@ -121,7 +121,8 @@ Trello is not the only solution, but it gave me enough flexibility to be able to
 I have mentioned them throughout the write-up, but the next couple of articles I will write will be about the Input process I have in place, and how I process these cards throughout the lifetime of a card. Then there will be a piece on focus and productivity, to find the motivation to finish "the frogs". You can have a sneakpeak on what is coming here:
 
  -  [About the input process](https://gist.github.com/vongohren/178fafddca01f123a85939d7968b4b86)
+ - Focus and productivity(not started)
+ - [Why I do a writing challenge](https://gist.github.com/vongohren/db9a3256d0d8b61acde61e78755ecf4f)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzIzNzAzMCwtODkxMDcwODE0LDUyMj
-YzNzE4LC0yODA3MjI0NjJdfQ==
+eyJoaXN0b3J5IjpbMTI5Mzc0MDAxM119
 -->
