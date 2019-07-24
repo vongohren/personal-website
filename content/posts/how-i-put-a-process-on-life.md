@@ -118,8 +118,10 @@ Another good example is that I had a task running for about 3 months. This was a
 Trello is not the only solution, but it gave me enough flexibility to be able to achieve more efficiency. This is now a way of life that I'm hoping to tell share with you and maybe inspire you to take action!
 
 ## Further reading
-I have mentioned them throughout the write-up, but the next couple of articles I will write will be about the Input process I have in place, and h
+I have mentioned them throughout the write-up, but the next couple of articles I will write will be about the Input process I have in place, and how I process these cards throughout the lifetime of a card. Then there will be a piece on focus and productivity, to find the motivation to finish "the frogs". You can have a sneakpeak on what is coming here:
+
+ -  [About the input process](https://gist.github.com/vongohren/178fafddca01f123a85939d7968b4b86)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNjUyMjI0LC04OTEwNzA4MTQsNTIyNj
-M3MTgsLTI4MDcyMjQ2Ml19
+eyJoaXN0b3J5IjpbMTczMzIzNzAzMCwtODkxMDcwODE0LDUyMj
+YzNzE4LC0yODA3MjI0NjJdfQ==
 -->
