@@ -21,8 +21,6 @@ Photo by [Robert Bye](https://unsplash.com/@robertbye) on [Unsplash](https://uns
 
 ## What change was needed
 
-To be able to make a real change, I realized that I had to dedicate time to find a solution that would work for the long haul. I was on a mission to find the ONE flexible platform that exists on all devices, so that my thoughts, notes, likes, videos, and articles could be collected in no time!
-
 To be able to make a real change, I realized that I had to dedicate time to find a solution that would work for the long haul. I was on a mission to find the ONE flexible platform that exists on all devices, so that my thoughts, notes, likes, videos, and articles could be collected in no time! 
 
 I wanted to go from the chaos on the left to the process on the right!
@@ -119,5 +117,6 @@ Another good example is that I had a task running for about 3 months. This was a
 
 Trello is not the only solution, but it gave me enough flexibility to be able to achieve more efficiency. This is now a way of life that I'm hoping to tell share with you and maybe inspire you to take action!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNjM3MTgsLTI4MDcyMjQ2Ml19
+eyJoaXN0b3J5IjpbLTg5MTA3MDgxNCw1MjI2MzcxOCwtMjgwNz
+IyNDYyXX0=
 -->
