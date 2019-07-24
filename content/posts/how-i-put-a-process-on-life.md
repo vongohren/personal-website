@@ -21,8 +21,6 @@ Photo by [Robert Bye](https://unsplash.com/@robertbye) on [Unsplash](https://uns
 
 ## What change was needed
 
-To be able to make a real change, I realized that I had to dedicate time to find a solution that would work for the long haul. I was on a mission to find the ONE flexible platform that exists on all devices, so that my thoughts, notes, likes, videos, and articles could be collected in no time!
-
 To be able to make a real change, I realized that I had to dedicate time to find a solution that would work for the long haul. I was on a mission to find the ONE flexible platform that exists on all devices, so that my thoughts, notes, likes, videos, and articles could be collected in no time! 
 
 I wanted to go from the chaos on the left to the process on the right!
@@ -118,6 +116,12 @@ Another cool thing is that I can see an overview of what is the majority of my t
 Another good example is that I had a task running for about 3 months. This was a task that included multiple people to follow up, having to store and create multiple documents and negotiation with different parties. Then it has been really important for me to always have the context of the current status available. Have a "ledger" of history with my thoughts that I could work with. And of course, to be able to work with the task, push it a couple of days, and then pick it up quickly, with all the context I need.
 
 Trello is not the only solution, but it gave me enough flexibility to be able to achieve more efficiency. This is now a way of life that I'm hoping to tell share with you and maybe inspire you to take action!
+
+## Further reading
+I have mentioned them throughout the write-up, but the next couple of articles I will write will be about the Input process I have in place, and how I process these cards throughout the lifetime of a card. Then there will be a piece on focus and productivity, to find the motivation to finish "the frogs". You can have a sneakpeak on what is coming here:
+
+ -  [About the input process](https://gist.github.com/vongohren/178fafddca01f123a85939d7968b4b86)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNjM3MTgsLTI4MDcyMjQ2Ml19
+eyJoaXN0b3J5IjpbMTczMzIzNzAzMCwtODkxMDcwODE0LDUyMj
+YzNzE4LC0yODA3MjI0NjJdfQ==
 -->
