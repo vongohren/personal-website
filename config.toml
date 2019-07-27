@@ -24,7 +24,7 @@ disqusShortname = "vongohren" # Enable or disable Disqus
     hideCopyright = true
 
     # Custom CSS
-    custom_css = []
+    custom_css = ['./css/special-handling.css']
 
     # RTL support
     rtl = false
