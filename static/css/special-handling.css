@@ -2,3 +2,12 @@
     text-align: left !important;
     margin-right: 10px;
 }
+
+a {
+    color: black;
+}
+
+h4 a {
+    font-weight: 600;
+    text-decoration: underline;
+}

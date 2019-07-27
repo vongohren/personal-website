@@ -1,15 +1,23 @@
 <section class="container list">
-    <h1 class="title">{{ .Title }}</h1>
-    <ul>
-      {{ range .Paginator.Pages }}
-        <li>
+  <h1 class="title">
+    {{- if eq .Kind "taxonomy" -}}
+      {{- i18n .Data.Singular | title -}}
+      {{- print ": " -}}
+    {{- end -}}
+
+    {{- .Title -}}
+  </h1>
+  <ul>
+    {{ range .Paginator.Pages }}
+    <li>
         {{ if eq .Type "projects" }}
-            <a href="{{ .URL }}">{{ .Title }}</a>
+            <a class="title" href="{{ .URL }}">{{ .Title }}</a>
         {{ else }}
-            <span class="year-date">{{ .Date.Format "2006, January 2" }}</span><a href="{{ .URL }}">{{ .Title }}</a>
+          <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+          <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
         {{ end }}
-        </li>
-      {{ end }}
-    </ul>
-    {{ partial "pagination.html" . }}
+    </li>
+    {{ end }}
+  </ul>
+  {{ partial "pagination.html" . }}
 </section>
