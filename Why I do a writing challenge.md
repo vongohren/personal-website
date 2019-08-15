@@ -48,7 +48,13 @@ After hanging out in academia and standardization environment, I have met many i
 
 According to Sapiens, this is the reason humans have come to the point of being the dominant race. We can have thoughts of things that don't exist and share them in an understanding way, which again spurs to more thoughts and ideas.
 
-So who can say that writing is not important!
+So who can say that writing is not important! All the words that have driven human kind onwards, and everybody has that one story they can share!
+
+![enter image description here](https://images.unsplash.com/photo-1468487422149-5edc5034604f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80)
+
+Photo by [Julia Joppien](https://unsplash.com/@vitreous_macula?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/important-writing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MjMyMzI4LDg0MDQzNzIzNF19
+eyJoaXN0b3J5IjpbNDkxODY3MjI4LDg0MDQzNzIzNF19
 -->
