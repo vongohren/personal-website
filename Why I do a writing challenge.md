@@ -5,7 +5,7 @@ The world is getting global, the work relations we have are getting digital, and
 
 And nothing is better than a challenge for yourself! I'm doing a writing challenge, and the experience has been great so far. Therefore I want to share that experience and tell you why you should do a writing challenge for yourself!
 
-
+![enter image description here](https://images.unsplash.com/1/work-stations-plus-espresso.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3300&q=80)
 
 Photo by [Alejandro Escamilla](https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/writing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -50,5 +50,5 @@ According to Sapiens, this is the reason humans have come to the point of being 
 
 So who can say that writing is not important!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjY4MDk3OSw4NDA0MzcyMzRdfQ==
+eyJoaXN0b3J5IjpbODg0MjMyMzI4LDg0MDQzNzIzNF19
 -->
