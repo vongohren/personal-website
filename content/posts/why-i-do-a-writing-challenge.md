@@ -35,16 +35,16 @@ Also, I like sharing my thoughts and having discussions on topics I fancy. This 
 
 ## How?
 
-##### Start now
+**Start now**
 Just to start, there is no need to wait to research and thinking too much about the task. It's better to be primitive than sophisticated, better to be stupid than smart! Just begin it! If you don't know what to write about, you can start with some [brainstorming](https://zapier.com/blog/brainstorming/). This can get the creative juices flowing.
 
-##### Do the work
+**Do the work**
 But the most important part is to do the work as [Steven Pressfield says](https://www.goodreads.com/book/show/10645233-do-the-work). In short, you have to fight your resistance and to do that, you just have to start doing the work, NOW! Start by setting off an hour in your calendar to try out brainstorming. Its a start, and it feels good!
 
-##### Go public
+**Go public**
 If you only write for yourself, and never show it to someone, we are never exposed. It takes courage and vulnerability to expose your creative self. Or ship something as we say it in the IT world. When we ship, we open ourselves to judgment in the real world. Nothing is more empowering because it plants us solidly on Planet Earth and gets us out of our self-devouring, navel-centered fantasies and self-delusions. Vulnerability is powerful stuff which Brené Brown talks about in [her book](https://www.goodreads.com/book/show/23500254-the-power-of-vulnerability?ac=1&from_search=true)
 
-##### Seek inspirations to strive for
+**Seek inspirations to strive for**
 It is very inspiring with people who can write out 5-6 articles a week because written communication comes naturally to them. For example, at a workshop/conference I attended earlier this year. One guy, a lawyer, compiled a whole ongoing discussion, into a 7 pager article, spot on the theme of the discussion. And had it published an hour or two after the discussion was done. It was almost faster than I even could read that initial 7-page article. You are not born with it, it comes with practice.
 
 ## We are meant to share
@@ -60,5 +60,5 @@ Photo by [Julia Joppien](https://unsplash.com/@vitreous_macula?utm_source=unspla
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU3MTE0NDNdfQ==
+eyJoaXN0b3J5IjpbOTAwODQ5ODM3LC0xNTU1NzExNDQzXX0=
 -->
