@@ -5,6 +5,10 @@ The world is getting global, the work relations we have are getting digital, and
 
 And nothing is better than a challenge for yourself! I'm doing a writing challenge, and the experience has been great so far. Therefore I want to share that experience and tell you why you should do a writing challenge for yourself!
 
+
+
+Photo by [Alejandro Escamilla](https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/writing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 ## Why improve your written skills
 
 Written skills are not just vocabulary or spelling. It's just as much conveying what you think, in written words. I struggle even with being able to convey 100% of what I think, in oral communication. But in an oral setting, it's easy for the two parts to quickly get synced, or catch confusion on peoples faces. When writing, these aspects go away.
@@ -46,5 +50,5 @@ According to Sapiens, this is the reason humans have come to the point of being 
 
 So who can say that writing is not important!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNDM3MjM0XX0=
+eyJoaXN0b3J5IjpbLTc2MjY4MDk3OSw4NDA0MzcyMzRdfQ==
 -->
