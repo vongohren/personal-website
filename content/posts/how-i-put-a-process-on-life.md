@@ -111,7 +111,7 @@ I use [https://ollertapp.com](https://ollertapp.com/) to get an overview of my d
 
 Another cool thing is that I can see an overview of what is the majority of my tasks. This way I can also see what I focus on in periods, and what I should focus more on for example
 
-![Lables for my task]()
+![Lables for my task](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/ollert-labels.png?alt=media&token=1907d30d-c6f0-42e4-8b4b-ca23b75cae34)
 
 Another good example is that I had a task running for about 3 months. This was a task that included multiple people to follow up, having to store and create multiple documents and negotiation with different parties. Then it has been really important for me to always have the context of the current status available. Have a "ledger" of history with my thoughts that I could work with. And of course, to be able to work with the task, push it a couple of days, and then pick it up quickly, with all the context I need.
 
@@ -124,5 +124,5 @@ I have mentioned them throughout the write-up, but the next couple of articles I
  - Focus and productivity(not started)
  - [Why I do a writing challenge](https://gist.github.com/vongohren/db9a3256d0d8b61acde61e78755ecf4f)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzkxNjk0MywxMjkzNzQwMDEzXX0=
+eyJoaXN0b3J5IjpbLTE3NDk0MjM3NjQsMTI5Mzc0MDAxM119
 -->
