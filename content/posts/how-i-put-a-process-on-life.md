@@ -122,8 +122,8 @@ I have mentioned them throughout the write-up, but the next couple of articles I
 
  -  [About the input process](https://gist.github.com/vongohren/178fafddca01f123a85939d7968b4b86)
  - Focus and productivity(not started)
- - [Why I do a writing challenge](https://gist.github.com/vongohren/db9a3256d0d8b61acde61e78755ecf4f)
+ - [Why you should do a writing challenge](https://vongohren.me/posts/why-i-do-a-writing-challenge/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDU2MjU4NCwtMTc0OTQyMzc2NCwxMj
-kzNzQwMDEzXX0=
+eyJoaXN0b3J5IjpbLTcwOTUwNjI2NywxNzc0NTYyNTg0LC0xNz
+Q5NDIzNzY0LDEyOTM3NDAwMTNdfQ==
 -->
