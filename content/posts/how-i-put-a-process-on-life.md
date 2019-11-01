@@ -57,7 +57,7 @@ To fully dedicate myself to Trello, I blocked out half an hour every morning and
 # Day 1+++
 To start, I made three main lists: Todo, Doing and Done. I had not read up on any methodologies or how to go about it. The mention of GTD and that it was a criterion, came in much later after I saw that things had to change.
 
-![enter image description here](https://lh3.googleusercontent.com/tsMf5uwsZJzRf4N8hT5PIpBFLLnef4fW0Hin2h-mmcT3VHdw8q2D9wJTWCYIFVkNsy07Dfw1-4ugEA "Trello beginning")
+![Trello beginning](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/starttrello.png?alt=media&token=a81d5144-4750-4553-9e86-a37fb7b1b229)
 
 I started small and lean, just to test out one application and collection point. In the beginning, the Trello notes(also known as cards) had no dates on them, I was not "owner" of any notes, and the board grew. I had no process for prioritization, following up or executing. I ended up with procrastinating Trello, even with the forced calendar entry, because it did not feel like it was adding value.
 
@@ -107,11 +107,11 @@ Because I dedicated to Trello, set up the process that fits me and having enough
 
 I use [https://ollertapp.com](https://ollertapp.com/) to get an overview of my data and see what is happening on my board for free. This comes back to critical thinking, am I able to find something free that can give me value, without indulging in creating a solution myself, which would have been quite time-consuming. This is also where I can see results. The graph showcases my cards accumulating and growing endlessly. Not showing any form of shrinking, until late 2018. Then I added a better process, did an evaluation and tweaked it towards [GTD](https://gettingthingsdone.com/) Then you can see a flat burn, with a curve going downwards in these days. Lately, I have again adjusted my process a bit to be more efficient.
 
-![](https://lh3.googleusercontent.com/-hhhNpTsKYCIIIXeZJyvKh3fmg_GtdoexX4MCdBkzO8EGsCl-h7-A2S230Lz8BeLFq-JT2c3E4U_zg "Flat burn")
+![Flat burn]([https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/ollert.png?alt=media&token=517e2535-6898-48a1-9794-401cf8c4b308](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/ollert.png?alt=media&token=517e2535-6898-48a1-9794-401cf8c4b308))
 
 Another cool thing is that I can see an overview of what is the majority of my tasks. This way I can also see what I focus on in periods, and what I should focus more on for example
 
-![](https://lh3.googleusercontent.com/AF4O8CFpS1pngYCzVX37yHr_sOHV4m3BIaOgldtGMxRg4siCGGyU92rsuaTTdI-rfP6Oo55E2NoQzQ "Lables for my task")
+![Lables for my task]()
 
 Another good example is that I had a task running for about 3 months. This was a task that included multiple people to follow up, having to store and create multiple documents and negotiation with different parties. Then it has been really important for me to always have the context of the current status available. Have a "ledger" of history with my thoughts that I could work with. And of course, to be able to work with the task, push it a couple of days, and then pick it up quickly, with all the context I need.
 
@@ -124,5 +124,5 @@ I have mentioned them throughout the write-up, but the next couple of articles I
  - Focus and productivity(not started)
  - [Why I do a writing challenge](https://gist.github.com/vongohren/db9a3256d0d8b61acde61e78755ecf4f)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzc0MDAxM119
+eyJoaXN0b3J5IjpbLTk5NzkxNjk0MywxMjkzNzQwMDEzXX0=
 -->
