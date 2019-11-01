@@ -107,7 +107,7 @@ Because I dedicated to Trello, set up the process that fits me and having enough
 
 I use [https://ollertapp.com](https://ollertapp.com/) to get an overview of my data and see what is happening on my board for free. This comes back to critical thinking, am I able to find something free that can give me value, without indulging in creating a solution myself, which would have been quite time-consuming. This is also where I can see results. The graph showcases my cards accumulating and growing endlessly. Not showing any form of shrinking, until late 2018. Then I added a better process, did an evaluation and tweaked it towards [GTD](https://gettingthingsdone.com/) Then you can see a flat burn, with a curve going downwards in these days. Lately, I have again adjusted my process a bit to be more efficient.
 
-![Flat burn]([https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/ollert.png?alt=media&token=517e2535-6898-48a1-9794-401cf8c4b308](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/ollert.png?alt=media&token=517e2535-6898-48a1-9794-401cf8c4b308))
+![Flat burn](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/ollert.png?alt=media&token=517e2535-6898-48a1-9794-401cf8c4b308)
 
 Another cool thing is that I can see an overview of what is the majority of my tasks. This way I can also see what I focus on in periods, and what I should focus more on for example
 
@@ -124,5 +124,6 @@ I have mentioned them throughout the write-up, but the next couple of articles I
  - Focus and productivity(not started)
  - [Why I do a writing challenge](https://gist.github.com/vongohren/db9a3256d0d8b61acde61e78755ecf4f)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk0MjM3NjQsMTI5Mzc0MDAxM119
+eyJoaXN0b3J5IjpbMTc3NDU2MjU4NCwtMTc0OTQyMzc2NCwxMj
+kzNzQwMDEzXX0=
 -->
