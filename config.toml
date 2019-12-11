@@ -12,6 +12,9 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 disqusShortname = "vongohren" # Enable or disable Disqus
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params] # theme parameters
     author = "Snorre Lothar von Gohren Edwin" # Author's name.
     info = "Kiting Full-Stack blockchainer with a dose DevOps" # Author's job title or info.
