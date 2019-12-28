@@ -70,6 +70,8 @@ You might be thinking, Medium is based on links as well, so why not use the Pock
 
 But now that I have collected this medium article, which at some point I will read when I have time. Since it has been stored, I can now do [GTD](https://gettingthingsdone.com/), as mentioned in [the earlier article](https://vongohren.me/posts/how-i-put-a-process-on-life/), on this task, and "get it done!"
 
+## Collecting notes
+
 My process of reading medium posts and other articles can be viewed in the checklist on the picture. I first send them to my kindle with another [simple web extension, or app](https://fivefilters.org/kindle-it/). There exists both. When sent, I will read it at an appropriate time, might be right after I sent it, or later. The main reason for me to send it to kindle, is to get a distraction free reading experience, with the possibilities to take notes and highlights.
 
 After it is read, I have highlighted stuff in the article, taken notes about thoughts I had, and again these end up in another place on the internet. Amazon Kindles own ecosystem. But I would like to process these thoughts and notes at some point!
@@ -94,5 +96,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDQ0Mjg3NCwtMTQ4Njg0OTgwMl19
+eyJoaXN0b3J5IjpbMTMyOTIyNzcwNSwyMDQ0NDQyODc0LC0xND
+g2ODQ5ODAyXX0=
 -->
