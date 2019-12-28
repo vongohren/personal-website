@@ -1,4 +1,7 @@
-
++++
+date = "2019-12-28"
+title = "The ultimate trello input process"
++++
 # The ultimate input process
 
 In this article: [How I put a process on life](https://vongohren.me/posts/how-i-put-a-process-on-life/) I wrote about the processification of my life. But did not go into detail on how my input process is done. 
@@ -91,5 +94,5 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4NDk4MDJdfQ==
+eyJoaXN0b3J5IjpbMjA0NDQ0Mjg3NCwtMTQ4Njg0OTgwMl19
 -->
