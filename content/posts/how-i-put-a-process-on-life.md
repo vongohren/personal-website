@@ -123,9 +123,9 @@ These are other related articles around this subject
 -   [The input process](https://vongohren.me/posts/my-trello-input-process/)
 -   [Why I do a writing challenge](https://vongohren.me/posts/why-i-do-a-writing-challenge/)
 
-I have mentioned them throughout the write-up. And but the next couple of articles will be a piece on focus and productivity, to find the motivation to finish “the frogs”.
+I have mentioned them throughout the write-up. And the next couple of articles will be a piece on focus and productivity, to find the motivation to finish “the frogs”.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyOTA3NjgxLC0xMjY4MjU0OTM5LC03MD
-k1MDYyNjcsMTc3NDU2MjU4NCwtMTc0OTQyMzc2NCwxMjkzNzQw
-MDEzXX0=
+eyJoaXN0b3J5IjpbOTE5NTExMDQsLTEyNjgyNTQ5MzksLTcwOT
+UwNjI2NywxNzc0NTYyNTg0LC0xNzQ5NDIzNzY0LDEyOTM3NDAw
+MTNdfQ==
 -->
