@@ -76,10 +76,9 @@ My process of reading medium posts and other articles can be viewed in the check
 
 After it is read, I have highlighted stuff in the article, taken notes about thoughts I had, and again these end up in another place on the internet. Amazon Kindles own ecosystem. But I would like to process these thoughts and notes at some point!
 
-This is where I have built a special "app", which allows me to send the notes to an email, as showcased in the checklist. 
-This will trigger an algorithm, which will process those notes, and post it back into the card that the article was once collected at.
+This is where I use the kindle app on the phone, click share notes from the article I want to process and send to an email. Then I have built a special "app", which allows me to recieve this email, parse the attachment, and this will trigger an algorithm, which will process those notes, and post it back into the trello card that the article was once collected at.
 
-You dont need to code your own code for this, you can try to do what they say along the lines in this article: [Using zapier to to handled emails with attachments, transcribing phon](https://zapier.com/blog/transcribe-phone-calls/)
+You dont need to code your own code for this, you can try to do what they say along the lines in this article: [Using zapier to to handled emails with attachments, transcribing phone-calls](https://zapier.com/blog/transcribe-phone-calls/)
 
 Then I have the toughts and notes together with the source. All in one place and I can act on my thoughts with new tasks, or I can connect it with other related cards. The possibilities are endless!
 
@@ -98,6 +97,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzQ3MTUzMSwyMDQ0NDQyODc0LC0xND
-g2ODQ5ODAyXX0=
+eyJoaXN0b3J5IjpbLTExNzE4MzI0MTcsMjA0NDQ0Mjg3NCwtMT
+Q4Njg0OTgwMl19
 -->
