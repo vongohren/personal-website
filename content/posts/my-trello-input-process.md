@@ -78,9 +78,9 @@ After it is read, I have highlighted stuff in the article, taken notes about tho
 
 This is where I use the kindle app on the phone, click share notes from the article I want to process and send to an email. Then I have built a special "app", which allows me to recieve this email, parse the attachment, and this will trigger an algorithm, which will process those notes, and post it back into the trello card that the article was once collected at.
 
-You dont need to code your own code for this, you can try to do what they say along the lines in this article: [Using zapier to to handled emails with attachments, transcribing phone-calls](https://zapier.com/blog/transcribe-phone-calls/)
+You dont need to code your own code for this, you can try to do what they say along the lines in this article: [Using zapier to to handled emails with attachments, transcribing phone-calls](https://zapier.com/blog/transcribe-phone-calls/) Where you use the mailparser mentioned, then you can use another zap to send it to your preferred source.
 
-Then I have the toughts and notes together with the source. All in one place and I can act on my thoughts with new tasks, or I can connect it with other related cards. The possibilities are endless!
+But then I have the toughts and notes together with the source. All in one place and I can act on my thoughts with new tasks, or I can connect it with other related cards. The possibilities are endless!
 
 ![](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/Screenshot%202019-11-05%20at%2000.09.01.png?alt=media&token=a130aaae-a9b4-4da0-acaa-3b9789d22cb8)
 
@@ -97,6 +97,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE4MzI0MTcsMjA0NDQ0Mjg3NCwtMT
-Q4Njg0OTgwMl19
+eyJoaXN0b3J5IjpbMjEzNTI4NDI0NCwyMDQ0NDQyODc0LC0xND
+g2ODQ5ODAyXX0=
 -->
