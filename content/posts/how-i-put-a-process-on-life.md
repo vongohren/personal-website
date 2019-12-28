@@ -118,12 +118,14 @@ Another good example is that I had a task running for about 3 months. This was a
 Trello is not the only solution, but it gave me enough flexibility to be able to achieve more efficiency. This is now a way of life that I'm hoping to tell share with you and maybe inspire you to take action!
 
 ## Further reading
-I have mentioned them throughout the write-up, but the next couple of articles I will write will be about the Input process I have in place, and how I process these cards throughout the lifetime of a card. Then there will be a piece on focus and productivity, to find the motivation to finish "the frogs". You can have a sneakpeak on what is coming here:
+These are other related articles around this subject
 
- -  [About the input process](https://vongohren.me/posts/my-trello-input-process/)
- - Focus and productivity(not started)
- - [Why you should do a writing challenge](https://vongohren.me/posts/why-i-do-a-writing-challenge/)
+-   [The input process](https://vongohren.me/posts/my-trello-input-process/)
+-   [Why I do a writing challenge](https://vongohren.me/posts/why-i-do-a-writing-challenge/)
+
+I have mentioned them throughout the write-up. And but the next couple of articles will be a piece on focus and productivity, to find the motivation to finish “the frogs”.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgyNTQ5MzksLTcwOTUwNjI2NywxNz
-c0NTYyNTg0LC0xNzQ5NDIzNzY0LDEyOTM3NDAwMTNdfQ==
+eyJoaXN0b3J5IjpbODYyOTA3NjgxLC0xMjY4MjU0OTM5LC03MD
+k1MDYyNjcsMTc3NDU2MjU4NCwtMTc0OTQyMzc2NCwxMjkzNzQw
+MDEzXX0=
 -->
