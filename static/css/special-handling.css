@@ -11,3 +11,7 @@ h4 a {
     font-weight: 600;
     text-decoration: underline;
 }
+
+.container.post a {
+    text-decoration: underline;
+}
