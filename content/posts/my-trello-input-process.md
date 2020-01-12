@@ -31,11 +31,11 @@ After I have done that, I can go about my day and do whatever I had to do, to th
 
 After that I can process them in different ways; there's no exact solution to how you want to go about these sunglasses. But I can for example add a label to them, to more easily find the cards or too collect data about what I do. 
 
-Or I can create a new card for them, "buy sunglasses", and link them together and start collecting sunglasses that I would like to buy. Make a conscious choice to look at it on Wednesday 6th of November and then forget about it, let Trello do the reminding, keeping my thoughts and wishes collected for me! Now I also know where to go if I were t
+Or I can create a new card for them, "buy sunglasses", and link them together and start collecting sunglasses that I would like to buy. Make a conscious choice to look at it on Wednesday 6th of November and then forget about it, let Trello do the reminding, keeping my thoughts and wishes collected for me! Now I also know where to go if I were to sit down and purchase some sunglasses.
 
 ![](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/editincomminsunglassescard.gif?alt=media&token=bea3bfd3-e0d3-4332-9370-0aa7d9325cf0)
 
-Adding a label, lets me for example have an overview of everything I would like to purchase. Which also makes it really easy to create a Christmas wish list for my family 😁
+Adding a label, lets me for example have an overview of everything I would like to purchase. Which also makes it really easy to create a gift and Christmas wish list for my family 😁
 
 But that is how easy it is to collect whatever page on the internet. Pocket just uses weblinks, so it is really easy to tackle different scenarios with Pocket. And in the browser, they have even made a simple extension that can collect weblinks, with a click of a button.
 
@@ -99,6 +99,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDg1NDcxOSwyMTM1Mjg0MjQ0LDIwND
-Q0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
+eyJoaXN0b3J5IjpbOTU2NTYwODE5LDIxMzUyODQyNDQsMjA0ND
+Q0Mjg3NCwtMTQ4Njg0OTgwMl19
 -->
