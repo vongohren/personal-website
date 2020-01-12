@@ -21,11 +21,13 @@ I will walk through a couple of examples of how you can utilize these sites func
 I will first showcase the broadest example, which can take whatever link you want and collect it swiftly. Then I will take a specific example with Medium, that also include how I actually end up reading that article and process the thoughts and notes from that saved article.
 
 ## Collecting a webpage with [Pocket](https://getpocket.com/)
-Let's say you are browsing the web and finding a couple of cool webpages you want to collect and put into some kind of context. Assume you are on the bus and just surfing for top sunglass brands. Because you want to find yourself some really cool sunglasses. Then this is how the process can look on mobile. PS: I'm clicking the share button with the [Pocket](https://getpocket.com/) logo.
+Let's say you are browsing the web and finding a couple of cool webpages you want to collect and put into some kind of context. Context in this scenario, is a Trello card, which can have notes, checklist and so on.
+
+So assume you are on the bus and just surfing for top sunglass brands. Because you want to find yourself some really cool sunglasses. Then this is how the process can look on mobile. PS: I'm clicking the share button with the [Pocket](https://getpocket.com/) logo, so it says "Saved to pocket".
 
 ![Browsing the web and pocketing different sunglasses](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/pocketsunglasses.gif?alt=media&token=e1dd405d-03fd-41f0-b9c3-9b72e6dc7e1e)
 
-After I have done that, I can go about my day and do whatever I had to do, to then be able to find these two sunglasses in my Trello inbox later that evening. 
+After I have done that, I can go about my day and do whatever I had to do, to then be able to find these two sunglasses in my Trello inbox later that evening. TO 
 
 Then I can process them in different ways; ther's no exact solution to how you want to go about these sunglasses. But I can for example add a label to them, to more easily find the cards or too collect data about what I do. 
 
@@ -97,6 +99,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTU0NjgxMiwyMTM1Mjg0MjQ0LDIwND
+eyJoaXN0b3J5IjpbMjA0MDMyNDQ2MSwyMTM1Mjg0MjQ0LDIwND
 Q0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
 -->
