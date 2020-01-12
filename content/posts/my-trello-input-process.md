@@ -98,12 +98,12 @@ So, what I usually do, is to ship 4-5 articles to my kindle and read them when I
 
 # Concluding words
 
-Doing these small tweakes and solutions, I have seen that I'm able to read what I want to read, collect my toughts and act on them later, follow up things I was suppose to follow up on, plan ahead of time and know what is coming, so there is no big suprise of important events or things I should have done.
+Doing these small tweaks and solutions, I have seen that I’m able to read what I want to read, collect my thoughts and act on them later, follow up things I was supposed to follow up on, plan ahead of time and know what is coming, so there is no big surprise of important events or things I should have done.
 
-I even see that, when reading these articles, and noting down, both highlights and thoughts, Im able to share compressed knowledge even faster. Because I gather thoughts and knowledge without any hassle, and it is a good feeling knowing I will utalize these at some point. All possible since I have a link to the article, I have my highlights and thoughts all collected at once place. Quite easily shareable.
+I even see that, when reading these articles, and noting down, both highlights and thoughts, I'm able to share compressed knowledge even faster. Because I gather thoughts and knowledge without any hassle, and it is a good feeling knowing I will utilize these at some point. All possible since I have a link to the article, I have my highlights and thoughts all collected at once place. Quite easily shareable.
 
-All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
+All these things are creating value in both efficiency and overview, for me in many ways. That allows me to use my time doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzEyMTE1MiwyMTM1Mjg0MjQ0LDIwND
-Q0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTg0NjY0MjUsLTc5MzEyMTE1MiwyMT
+M1Mjg0MjQ0LDIwNDQ0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
 -->
