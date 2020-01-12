@@ -90,17 +90,20 @@ After all this I have the toughts and notes together with the source. All in one
 
 This completes the cycle of life for a simple article, medium or some other blog or web page. The checklist is automatically added when the label "Medium" or "Article" is added to a card. So, I can pull in an NRK article through Pocket, add the article label and end up doing the procedure as the things coming from Medium. 
 
-You might think that this is a lengthy process of reading a simple article. I can agree, but if we get back to that things are efficient anBut I have not been very good at reading the articles I found, and I wanted to change that. It was difficult to read on the computer because of so many distractions, and it was difficult to capture notes without having to copy paste and go out of the article. 
+You might think that this is a lengthy process of reading a simple article. I can agree, but if we get back to that things are efficient and fast, the articles do get read, and I dont loose focus when someone shares an article with me. 
+
+Also I have not been very good at reading the articles I found online, and I wanted to change that. It was difficult to read on the computer because of many distractions, and it was difficult to capture notes without having to copy paste and go out of the article. 
 
 So, what I usually do, is to ship 4-5 articles to my kindle and read them when I find the time, away from disctractions!
 
 # Concluding words
+
 Doing these small tweakes and solutions, I have seen that I'm able to read what I want to read, collect my toughts and act on them later, follow up things I was suppose to follow up on, plan ahead of time and know what is coming, so there is no big suprise of important events or things I should have done.
 
-I even see that, when reading these articles, and noting down, both highligtes and thoughts, Im able to share compressed knowledge even faster. Because I gather thoughts and knowledge without any hassle, and it is a good feeling knowing I will utalize these at some point. All possible since I have a link to the article, I have my highlights and thoughts all collected at once place. Quite easily shareable.
+I even see that, when reading these articles, and noting down, both highlights and thoughts, Im able to share compressed knowledge even faster. Because I gather thoughts and knowledge without any hassle, and it is a good feeling knowing I will utalize these at some point. All possible since I have a link to the article, I have my highlights and thoughts all collected at once place. Quite easily shareable.
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDI1MTY0NSwyMTM1Mjg0MjQ0LDIwND
+eyJoaXN0b3J5IjpbLTc5MzEyMTE1MiwyMTM1Mjg0MjQ0LDIwND
 Q0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
 -->
