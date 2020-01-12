@@ -84,13 +84,13 @@ This is where I use the kindle app on the phone, click share notes from the arti
 
 You dont need to code your own code for this, you can try to do what they say along the lines in this article: [Using zapier to to handled emails with attachments, transcribing phone-calls](https://zapier.com/blog/transcribe-phone-calls/) Where you use the mailparser mentioned, then you can use another zap to send it to your preferred source.
 
-After all this I have the toughts and notes together with the source. All in one place and I can act on my thoughts with new tasks, or I can connect it with other related cards. The possibilities are endless!
+After all this I have the toughts and notes together with the source. All in one place and I can act on my thoughts with new tasks, or I can connect it with other related cards. Or I have a nice shared summary to share with others if they are curious! The possibilities are endless!
 
 ![](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/Screenshot%202019-11-05%20at%2000.09.01.png?alt=media&token=a130aaae-a9b4-4da0-acaa-3b9789d22cb8)
 
-That completes the cycle of life for a simple article, let it be medium or not. The checklist is automatically added when the label "Medium" or "Article" is added to a card. So, I can pull in an NRK article through Pocket, add the article label and end up doing the procedure as the things coming from Medium. 
+This completes the cycle of life for a simple article, medium or some other blog or web page. The checklist is automatically added when the label "Medium" or "Article" is added to a card. So, I can pull in an NRK article through Pocket, add the article label and end up doing the procedure as the things coming from Medium. 
 
-You might think that this is a lengthy process of reading a simple article. But I have not been very good at reading the articles I found, and I wanted to change that. It was difficult to read on the computer because of so many distractions, and it was difficult to capture notes without having to copy paste and go out of the article. 
+You might think that this is a lengthy process of reading a simple article. I can agree, but if we get back to that things are efficient anBut I have not been very good at reading the articles I found, and I wanted to change that. It was difficult to read on the computer because of so many distractions, and it was difficult to capture notes without having to copy paste and go out of the article. 
 
 So, what I usually do, is to ship 4-5 articles to my kindle and read them when I find the time, away from disctractions!
 
@@ -101,6 +101,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTgyMTY4NywyMTM1Mjg0MjQ0LDIwND
+eyJoaXN0b3J5IjpbMTMzMDI1MTY0NSwyMTM1Mjg0MjQ0LDIwND
 Q0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
 -->
