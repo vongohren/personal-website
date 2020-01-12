@@ -66,11 +66,11 @@ Below you can see the recipe and stats around this function. It is quite simple 
 
 So, when I click that bookmark button, either on the web or via the medium app on the phone, IFTTT will work on my behalf send that data to my Trello board. 
 
-From there the butler-bot takes over and populates the card with information such as the right label and a to-do list for everything that comes from Medium. And then I get a card like the following, automatically by clicking bookmark in Medium:
+From there the [robot/butler](https://help.trello.com/article/1198-an-intro-to-butler) takes over and populates the card with information such as the right label and a to-do list for everything that comes from Medium. And then I get a card like the following, automatically by clicking bookmark in Medium:
 
 ![IFTTT created Medium card](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/mediumtrellocard.png?alt=media&token=910783d3-976d-4826-8e88-2787528357ef)
 
-You might be thinking, Medium is based on links as well, so why not use the Pocket solution for this? My answer to that is: With a specific solution for Medium, I can create specific contexts around that. I know everything from Medium is an article, something I will read. While the Pocket solution mentioned earlier, any website can come in, and then I cannot assume that the website is something I shall read as an article.
+You might be thinking, Medium is based on links as well, so why not use the Pocket solution for this? My answer to that is: With a specific solution for Medium, I can create specific contexts around that articled or card. I know everything from Medium is an article, something I will read. While the Pocket solution mentioned earlier, any website can come in, and then I cannot assume that the website is something I shall read as an article.
 
 But now that I have collected this medium article, which at some point I will read when I have time. Since it has been stored, I can now do [GTD](https://gettingthingsdone.com/), as mentioned in [the earlier article](https://vongohren.me/posts/how-i-put-a-process-on-life/), on this task, and "get it done!"
 
@@ -101,6 +101,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNzA5MjkxLDIxMzUyODQyNDQsMjA0ND
-Q0Mjg3NCwtMTQ4Njg0OTgwMl19
+eyJoaXN0b3J5IjpbLTE2MTEyMzEzODAsMjEzNTI4NDI0NCwyMD
+Q0NDQyODc0LC0xNDg2ODQ5ODAyXX0=
 -->
