@@ -47,24 +47,23 @@ Efficiency is key, so that you don't add to much process on something that is su
 
 ## Collecting from [Medium](https://medium.com/)
 
-Another scenario is when I want to read an article.
-I have [Medium](https://medium.com/) both on my phone and on the web. And sometimes I get articles or find articles that I don't have time to read right now and want to read later. But the questions is, how do I collect it? 
+Another scenario is when I want to read an article. I have [Medium](https://medium.com/) both on my phone and on the web. And sometimes I get articles or find articles that I don’t have time to read right now and want to read later. But the question is, how do I collect it?
 
-Medium has this thing called bookmarks, but whoever goes back to medium bookmarks and try to read through them a couple of days later? I know I don't!
+Medium has this thing called bookmarks, but whoever goes back to medium bookmarks and try to read through them a couple of days later? I know I don’t!
 
 As I wrote in [the earlier article](https://vongohren.me/posts/how-i-put-a-process-on-life/), I need to have it all in one source and not scattered across the internet or browsers. That is why I use a tool called [IFTTT(If this then that)](https://ifttt.com/medium), which helps me a lot! As you can see in the earlier visualization, it helps me with 4 of my sources!
 
-But because Medium has this function called bookmarking, I'm able to do this with one simple click of a button. And not have to copy the URL and paste it somewhere or anything. It has to be fast, or it becomes to tedious.
+But because Medium has this function called bookmarking, I’m able to do this with one simple click of a button. And not have to copy the URL and paste it somewhere or anything. It has to be fast, or it becomes tedious.
 
 ![Picture of an article with a bookmark function](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/Screenshot_20191104-225333.png?alt=media&token=b935f721-e6f8-4201-9d2c-c6403a05788b)
 
-This bookmark click and registration, you can utilize and plug through IFTTT and send that data wherever you want to. Making sure you don’t leave small breadcrumbs all over the place for you to think about and have to pick up.  But rather pull it into one almighty source, which would be Trello for me!
+This bookmark click and registration, you can utilize and plug through IFTTT and send that data wherever you want to. Making sure you don’t leave small breadcrumbs all over the place for you to think about and have to pick up. But rather pull it into one almighty source, which would be Trello for me!
 
 Below you can see the recipe and stats around this function. It is quite simple to set up, and it is all free!
 
 ![IFTTT recipe](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/iftttrecipei.png?alt=media&token=26fa0371-e1ea-485b-b452-dcedc583889a)
 
-So, when I click that bookmark button, either on the web or via the medium app on the phone, IFTTT will work on my behalf send that data to my Trello board. 
+So, when I click that bookmark button, either on the web or via the medium app on the phone, IFTTT will work on my behalf send that data to my Trello board.
 
 From there the [robot/butler](https://help.trello.com/article/1198-an-intro-to-butler) takes over and populates the card with information such as the right label and a to-do list for everything that comes from Medium. And then I get a card like the following, automatically by clicking bookmark in Medium:
 
@@ -104,6 +103,6 @@ I even see that, when reading these articles, and noting down, both highlights a
 
 All these things are creating value in both efficiency and overview, for me in many ways. That allows me to use my time doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTIxODc0NiwtNzkzMTIxMTUyLDIxMz
+eyJoaXN0b3J5IjpbMTY3Nzg3NTI3OCwtNzkzMTIxMTUyLDIxMz
 UyODQyNDQsMjA0NDQ0Mjg3NCwtMTQ4Njg0OTgwMl19
 -->
