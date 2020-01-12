@@ -70,31 +70,31 @@ From there the [robot/butler](https://help.trello.com/article/1198-an-intro-to-b
 
 ![IFTTT created Medium card](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/mediumtrellocard.png?alt=media&token=910783d3-976d-4826-8e88-2787528357ef)
 
-You might be thinking, Medium is based on links as well, so why not use the Pocket solution for this? My answer to that is: With a specific solution for Medium, I can create specific contexts around that articled or card. I know everything from Medium is an article, something I will read. While the Pocket solution mentioned earlier, any website can come in, and then I cannot assume that the website is something I shall read as an article.
+You might be thinking, Medium is based on links as well, so why not use the Pocket solution for this? My answer to that is: With a specific solution for Medium, I can create specific contexts around that article or card. I know everything from Medium is an article, something I will read. While the Pocket solution mentioned earlier, any website can come in, and then I cannot assume that the website is something I shall read like an article.
 
 But now that I have collected this medium article, when I have time I will read. Since it has been added to Trello, I can now do [GTD](https://gettingthingsdone.com/), as mentioned in [the earlier article](https://vongohren.me/posts/how-i-put-a-process-on-life/), on this task, and "get it done!"
 
 ## Collecting notes
 
-My process of reading medium posts and other articles can be viewed in the checklist on the latter picture. I first send them to my kindle with another [simple web extension, or app](https://fivefilters.org/kindle-it/). Both solutions exist in this version. When sent, I will read it at an appropriate time, might be right after I sent it, or later. The main reason for me to send it to kindle, is to get a distraction free reading experience, with the possibilities to take notes and highlights.
+My process of reading medium posts and other articles can be viewed in the checklist on the latter picture. I first send them to my kindle with another [simple web extension, or app](https://fivefilters.org/kindle-it/). Both solutions exist in this version. When sent, I will read it at an appropriate time, might be right after I sent it, or later. The main reason for me to send it to kindle, is to get a distraction-free reading experience, with the possibilities to take notes and highlights.
 
 After it is read, I have highlighted stuff in the article, taken notes about thoughts I had, and again these end up in another place on the internet. Amazon Kindles own ecosystem. But I would like to process these thoughts and notes at some point!
 
-This is where I use the kindle app on the phone, click share notes from the article I want to process and send to an email. Then I have built a special "app", which allows me to recieve this email, parse the kindle data, and this will trigger an algorithm, which will process those notes, and post it back into the trello card that the article was once collected at.
+This is where I use the kindle app on the phone, click share notes from the article I want to process and send it to an email. Then I have built a special “app”, which allows me to receive this email, parse the kindle data, and this will trigger an algorithm, which will process those notes, and post it back into the Trello card that the article was once collected at.
 
-You dont need to code your own code for this, you can try to do what they say along the lines in this article: [Using zapier to to handled emails with attachments, transcribing phone-calls](https://zapier.com/blog/transcribe-phone-calls/) Where you use the mailparser mentioned, then you can use another zap to send it to your preferred source.
+You don't need to code your own code for this, you can try to do what they say along the lines in this article: [Using zapier to to handled emails with attachments, transcribing phone-calls](https://zapier.com/blog/transcribe-phone-calls/) Where you use the mailparser mentioned, then you can use another zap to send it to your preferred source.
 
-After all this I have the toughts and notes together with the source. All in one place and I can act on my thoughts with new tasks, or I can connect it with other related cards. Or I have a nice shared summary to share with others if they are curious! The possibilities are endless!
+After all this, I have the thoughts and notes together with the source. All in one place and I can act on my thoughts with new tasks, or I can connect it with other related cards. Or I have a nice shared summary to share with others if they are curious! The possibilities are endless!
 
 ![](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/Screenshot%202019-11-05%20at%2000.09.01.png?alt=media&token=a130aaae-a9b4-4da0-acaa-3b9789d22cb8)
 
-This completes the cycle of life for a simple article, medium or some other blog or web page. The checklist is automatically added when the label "Medium" or "Article" is added to a card. So, I can pull in an NRK article through Pocket, add the article label and end up doing the procedure as the things coming from Medium. 
+This completes the cycle of life for a simple article, medium or some other blog or web page. The checklist is automatically added when the label “Medium” or “Article” is added to a card. So, I can pull in an NRK article through Pocket, add the article label and end up doing the procedure as the things coming from Medium.
 
-You might think that this is a lengthy process of reading a simple article. I can agree, but if we get back to that things are efficient and fast, the articles do get read, and I dont loose focus when someone shares an article with me. 
+You might think that this is a lengthy process of reading a simple article. I can agree, but if we get back to that things are efficient and fast, the articles do get read, and I don't lose focus when someone shares an article with me.
 
-Also I have not been very good at reading the articles I found online, and I wanted to change that. It was difficult to read on the computer because of many distractions, and it was difficult to capture notes without having to copy paste and go out of the article. 
+Also, I have not been very good at reading the articles I found online, and I wanted to change that. It was difficult to read on the computer because of many distractions, and it was difficult to capture notes without having to copy-paste and go out of the article.
 
-So, what I usually do, is to ship 4-5 articles to my kindle and read them when I find the time, away from disctractions!
+So, what I usually do, is to ship 4–5 articles to my kindle and read them when I find the time, away from distractions!
 
 # Concluding words
 
@@ -104,6 +104,6 @@ I even see that, when reading these articles, and noting down, both highlights a
 
 All these things are creating value in both efficiency and overview, for me in many ways. That allows me to use my time doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg0NjY0MjUsLTc5MzEyMTE1MiwyMT
-M1Mjg0MjQ0LDIwNDQ0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
+eyJoaXN0b3J5IjpbMTMzNTIxODc0NiwtNzkzMTIxMTUyLDIxMz
+UyODQyNDQsMjA0NDQ0Mjg3NCwtMTQ4Njg0OTgwMl19
 -->
