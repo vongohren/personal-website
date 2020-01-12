@@ -14,11 +14,11 @@ Here is a visualisation of how I have enabled it all. And this is just my extern
 
 ## At what sources are you finding your information?
 
-This is an important question you must ask yourself. What sources are you using to read and find information? You can see that I use Goodreads, Twitter, YouTube, Reddit, and even random webpages are important information. But this info must be collected and processed without too much hassle. As mentioned in the earlier article, Medium has bookmarking, Twitter has liking, Goodreads has read later function, and so on. 
+This is an important question you must ask yourself. What sources are you using to read and find information? You can see that I use Goodreads, Twitter, YouTube, Reddit, and even random webpages are important information. But this info must be collected and processed without too much hassle. As mentioned in [the earlier article](https://vongohren.me/posts/how-i-put-a-process-on-life/), Medium has bookmarking, Twitter has liking, Goodreads has read later function, and so on. 
 
-I will walk through a couple of examples of how you can utilize these sites functionality, and you can catch the drift on how to set it up with the rest of the sources. You probably find the service you use in these different tools I use.
+I will walk through a couple of examples of how you can utilize these sites functionality, and you can catch the drift on how to set it up with the rest of your sources. You probably find all you need in the in these different tools I use.
 
-I will first showcase the broadest example, which can take whatever link you want and collect it swiftly. Then I will take a specific example that include how I actually end up reading that article and process the thoughts and notes from that saved article.
+I will first showcase the broadest example, which can take whatever link you want and collect it swiftly. Then I will take a specific example with Medium, that also include how I actually end up reading that article and process the thoughts and notes from that saved article.
 
 ## Collecting a webpage with [Pocket](https://getpocket.com/)
 Let's say you are browsing the web and finding a couple of cool webpages you want to collect and put into some kind of context. Assume you are on the bus and just surfing for top sunglass brands. Because you want to find yourself some really cool sunglasses. Then this is how the process can look on mobile. PS: I'm clicking the share button with the [Pocket](https://getpocket.com/) logo.
@@ -97,6 +97,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkxNDcxOTUsMjEzNTI4NDI0NCwyMD
-Q0NDQyODc0LC0xNDg2ODQ5ODAyXX0=
+eyJoaXN0b3J5IjpbMTg3OTU0NjgxMiwyMTM1Mjg0MjQ0LDIwND
+Q0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
 -->
