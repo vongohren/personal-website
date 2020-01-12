@@ -4,46 +4,46 @@ title = "The ultimate trello input process"
 +++
 # The ultimate input process
 
-In this article: [How I put a process on life](https://vongohren.me/posts/how-i-put-a-process-on-life/) I wrote about the processification of my life. But did not go into detail on how my input process is done. 
+In this article: [How I put a process on life](https://vongohren.me/posts/how-i-put-a-process-on-life/) I wrote about the processification of my life. But did not go into detail on how my input process is done.
 
-By the input process I mean the way of collecting data from all the different sources I get my inspiration and thoughts from. That can be self-notes, articles you want to read, URLs you want to explore, tweets you want to explore, books you want to read and so on! I will not delve into the thought process around this, because that was discussed more in depth in the mentioned article. But rather dive straight into the details.
+By the input process I mean the way of collecting data from all the different sources I get my inspiration and thoughts from. That can be self-notes, articles you want to read, URLs you want to explore, tweets you want to explore, books you want to read and so on! I will not delve into the thought process around this, because that was discussed more in-depth in the mentioned article. But rather dive straight into the details.
 
-Here is a visualisation of how I have enabled it all. And this is just my external information input process. Two things that are not visualized here is the [robot/butler](https://help.trello.com/article/1198-an-intro-to-butler) that is working for me in my Trello board, and a couple of cloud functions I have developed to assist some special cases of input gathering. I will mention them again at the bottom of the article.
+Here is a visualization of how I have enabled it all. And this is just my external information input process. Two things that are not visualized here is the [robot/butler](https://help.trello.com/article/1198-an-intro-to-butler) that is working for me in my Trello board, and a couple of cloud functions I have developed to assist some special cases of input gathering. I will mention them again at the bottom of the article.
 
 ![enter image description here](https://docs.google.com/drawings/d/e/2PACX-1vR5W2TXYuMUvB67Ocfeh0G3xnqEjBmYX1m4yGnFnOmFCz_rHYKZkkmzMxYFkbpkVqsnDLUeqrgp6Jun/pub?w=1886&h=618)  
 
 ## At what sources are you finding your information?
 
-This is an important question you must ask yourself. What sources are you using to read and find information? You can see that I use Goodreads, Twitter, YouTube, Reddit, and even random webpages are important information. But this info must be collected and processed without too much hassle. As mentioned in [the earlier article](https://vongohren.me/posts/how-i-put-a-process-on-life/), Medium has bookmarking, Twitter has liking, Goodreads has read later function, and so on. 
+This is an important question you must ask yourself. What sources are you using to read and find information? You can see that I use Goodreads, Twitter, YouTube, Reddit, and even random webpages are important information. But this info must be collected and processed without too much hassle. As mentioned in [the earlier article](https://vongohren.me/posts/how-i-put-a-process-on-life/), Medium has bookmarking, Twitter has liking, Goodreads has read later function, and so on.
 
-I will walk through a couple of examples of how you can utilize these sites functionality, and you can catch the drift on how to set it up with the rest of your sources. You probably find all you need in the in these different tools I use.
+I will walk through a couple of examples of how you can utilize these sites functionality, and you can catch the drift on how to set it up with the rest of your sources. You probably find all you need in these different tools I use.
 
-I will first showcase the broadest example, which can take whatever link you want and collect it swiftly. Then I will take a specific example with Medium, that also include how I actually end up reading that article and process the thoughts and notes from that saved article.
+I will first showcase the broadest example, which can take whatever link you want and collect it swiftly. Then I will take a specific example with Medium, which also include how I actually end up reading that article and process the thoughts and notes from that saved article.
 
 ## Collecting a webpage with [Pocket](https://getpocket.com/)
-Let's say you are browsing the web and finding a couple of cool webpages you want to collect and put into some kind of context. Context in this scenario, is a Trello card, which can have notes, checklist and so on.
+Let’s say you are browsing the web and finding a couple of cool webpages you want to collect and put into some kind of context. The context in this scenario is a Trello card, which can have notes, checklist and so on.
 
-So assume you are on the bus and just surfing for top sunglass brands. Because you want to find yourself some really cool sunglasses. Then this is how the process can look on mobile. PS: I'm clicking the share button with the [Pocket](https://getpocket.com/) logo, so it says "Saved to pocket".
+So assume you are on the bus and just surfing for top sunglass brands. Because you want to find yourself some really cool sunglasses. Then this is how the process can look on mobile. PS: I’m clicking the share button with the [Pocket](https://getpocket.com/) logo, so it says “Saved to pocket”.
 
 ![Browsing the web and pocketing different sunglasses](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/pocketsunglasses.gif?alt=media&token=e1dd405d-03fd-41f0-b9c3-9b72e6dc7e1e)
 
 After I have done that, I can go about my day and do whatever I had to do, to then be able to find these two sunglasses in my Trello inbox later that evening. To understand better what I mean by Trello inbox, go read [How I put a process on life](https://vongohren.me/posts/how-i-put-a-process-on-life/)
 
-After that I can process them in different ways; there's no exact solution to how you want to go about these sunglasses. But I can for example add a label to them, to more easily find the cards or too collect data about what I do. 
+After that I can process them in different ways; there’s no exact solution to how you want to go about these sunglasses. But I can for example add a label to them, to more easily find the cards or too collect data about what I do.
 
-Or I can create a new card for them, "buy sunglasses", and link them together and start collecting sunglasses that I would like to buy. Make a conscious choice to look at it on Wednesday 6th of November and then forget about it, let Trello do the reminding, keeping my thoughts and wishes collected for me! Now I also know where to go if I were to sit down and purchase some sunglasses.
+Or I can create a new card for them, “buy sunglasses”, and link them together and start collecting sunglasses that I would like to buy. Make a conscious choice to look at it on Wednesday 6th of November and then forget about it, let Trello do the reminding, keeping my thoughts and wishes collected for me! Now I also know where to go if I were to sit down and purchase some sunglasses.
 
 ![](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/editincomminsunglassescard.gif?alt=media&token=bea3bfd3-e0d3-4332-9370-0aa7d9325cf0)
 
-Adding a label, lets me for example have an overview of everything I would like to purchase. Which also makes it really easy to create a gift and Christmas wish list for my family 😁
+Adding a label lets me, for example, have an overview of everything I would like to purchase. Which also makes it really easy to create a gift and Christmas wish list for my family 😁
 
 But that is how easy it is to collect whatever page on the internet. Pocket just uses weblinks, so it is really easy to tackle different scenarios with Pocket. And in the browser, they have even made a simple extension that can collect weblinks, with a click of a button.
 
 How you decided to work with the collected items is up to you. But as I mentioned in [How I put a process on life](https://vongohren.me/posts/how-i-put-a-process-on-life/)
 
-> to be able to achieve the goal of “collect in no time” and not “consuming too much time, but still provide value”.
+> _to be able to achieve the goal of “collect in no time” and not “consuming too much time, but still provide value”._
 
-Efficiency is key, so that you don't add to much process on something that is suppose to make things easier for yourself!
+Efficiency is key so that you don’t add too many processes to something that is supposed to make things easier for yourself!
 
 ## Collecting from [Medium](https://medium.com/)
 
@@ -103,6 +103,6 @@ I even see that, when reading these articles, and noting down, both highlights a
 
 All these things are creating value in both efficiency and overview, for me in many ways. That allows me to use my time doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Nzg3NTI3OCwtNzkzMTIxMTUyLDIxMz
-UyODQyNDQsMjA0NDQ0Mjg3NCwtMTQ4Njg0OTgwMl19
+eyJoaXN0b3J5IjpbODA3NDY5NzM4LC03OTMxMjExNTIsMjEzNT
+I4NDI0NCwyMDQ0NDQyODc0LC0xNDg2ODQ5ODAyXX0=
 -->
