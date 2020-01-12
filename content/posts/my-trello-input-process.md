@@ -8,7 +8,7 @@ In this article: [How I put a process on life](https://vongohren.me/posts/how-i-
 
 By the input process I mean the way of collecting data from all the different sources I get my inspiration and thoughts from. That can be self-notes, articles you want to read, URLs you want to explore, tweets you want to explore, books you want to read and so on! I will not delve into the thought process around this, because that was discussed more in depth in the mentioned article. But rather dive straight into the details.
 
-Here is a visualisation of how I have enabled it all. And this is just my external information input process. Two things that are not visualized here is the robot that is working for me in my Trello board, and a couple of functions I have developed to assist some special cases of input gathering. I will mention them again at the bottom of the article.
+Here is a visualisation of how I have enabled it all. And this is just my external information input process. Two things that are not visualized here is the [robot/butler](https://help.trello.com/article/1198-an-intro-to-butler) that is working for me in my Trello board, and a couple of cloud functions I have developed to assist some special cases of input gathering. I will mention them again at the bottom of the article.
 
 ![enter image description here](https://docs.google.com/drawings/d/e/2PACX-1vR5W2TXYuMUvB67Ocfeh0G3xnqEjBmYX1m4yGnFnOmFCz_rHYKZkkmzMxYFkbpkVqsnDLUeqrgp6Jun/pub?w=1886&h=618)  
 
@@ -97,6 +97,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDYxMTk0ODgsMjEzNTI4NDI0NCwyMD
+eyJoaXN0b3J5IjpbLTEyOTkxNDcxOTUsMjEzNTI4NDI0NCwyMD
 Q0NDQyODc0LC0xNDg2ODQ5ODAyXX0=
 -->
