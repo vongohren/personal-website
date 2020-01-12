@@ -39,7 +39,7 @@ Adding a label, lets me for example have an overview of everything I would like 
 
 But that is how easy it is to collect whatever page on the internet. Pocket just uses weblinks, so it is really easy to tackle different scenarios with Pocket. And in the browser, they have even made a simple extension that can collect weblinks, with a click of a button.
 
-How you decided to work with the collected items is up to you. But as I mentioned earlier
+How you decided to work with the collected items is up to you. But as I mentioned in [How I put a process on life](https://vongohren.me/posts/how-i-put-a-process-on-life/)
 
 > to be able to achieve the goal of “collect in no time” and not “consuming too much time, but still provide value”.
 
@@ -48,7 +48,9 @@ Efficiency is key, so that you don't add to much process on something that is su
 ## Collecting from [Medium](https://medium.com/)
 
 Another scenario is when I want to read an article.
-I have [Medium](https://medium.com/) both on my phone and on the web. And sometimes I get articles or find articles that I don't have time to read right now and want to read later. But the questions is, how do I collect it? Medium has this thing called bookmarks, but whoever goes back to medium bookmarks and try to read through them a couple of days later? I know I don't!
+I have [Medium](https://medium.com/) both on my phone and on the web. And sometimes I get articles or find articles that I don't have time to read right now and want to read later. But the questions is, how do I collect it? 
+
+Medium has this thing called bookmarks, but whoever goes back to medium bookmarks and try to read through them a couple of days later? I know I don't!
 
 As I wrote in the earlier article, I need to have it all in one source and not scattered across the internet or browsers. That is why I use a tool called [IFTTT(If this then that)](https://ifttt.com/medium), which helps me a lot! As you can see in the earlier visualization, it helps me with 4 of my sources!
 
@@ -99,6 +101,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NTYwODE5LDIxMzUyODQyNDQsMjA0ND
+eyJoaXN0b3J5IjpbNDY2Njk3NjI2LDIxMzUyODQyNDQsMjA0ND
 Q0Mjg3NCwtMTQ4Njg0OTgwMl19
 -->
