@@ -27,11 +27,11 @@ So assume you are on the bus and just surfing for top sunglass brands. Because y
 
 ![Browsing the web and pocketing different sunglasses](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/pocketsunglasses.gif?alt=media&token=e1dd405d-03fd-41f0-b9c3-9b72e6dc7e1e)
 
-After I have done that, I can go about my day and do whatever I had to do, to then be able to find these two sunglasses in my Trello inbox later that evening. TO 
+After I have done that, I can go about my day and do whatever I had to do, to then be able to find these two sunglasses in my Trello inbox later that evening. To understand better what I mean by Trello inbox, go read [How I put a process on life](https://vongohren.me/posts/how-i-put-a-process-on-life/)
 
-Then I can process them in different ways; ther's no exact solution to how you want to go about these sunglasses. But I can for example add a label to them, to more easily find the cards or too collect data about what I do. 
+After that I can process them in different ways; there's no exact solution to how you want to go about these sunglasses. But I can for example add a label to them, to more easily find the cards or too collect data about what I do. 
 
-Or I can create a new card for them, "buy sunglasses", and link them together and start collecting sunglasses that I would like to buy. Make a conscious choice to look at it on Wednesday 6th of November and then forget about it, let Trello do the rest of the work for me!
+Or I can create a new card for them, "buy sunglasses", and link them together and start collecting sunglasses that I would like to buy. Make a conscious choice to look at it on Wednesday 6th of November and then forget about it, let Trello do the reminding, keeping my thoughts and wishes collected for me! Now I also know where to go if I were t
 
 ![](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/editincomminsunglassescard.gif?alt=media&token=bea3bfd3-e0d3-4332-9370-0aa7d9325cf0)
 
@@ -99,6 +99,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDMyNDQ2MSwyMTM1Mjg0MjQ0LDIwND
+eyJoaXN0b3J5IjpbMTUxMDg1NDcxOSwyMTM1Mjg0MjQ0LDIwND
 Q0NDI4NzQsLTE0ODY4NDk4MDJdfQ==
 -->
