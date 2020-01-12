@@ -52,13 +52,13 @@ I have [Medium](https://medium.com/) both on my phone and on the web. And someti
 
 Medium has this thing called bookmarks, but whoever goes back to medium bookmarks and try to read through them a couple of days later? I know I don't!
 
-As I wrote in the earlier article, I need to have it all in one source and not scattered across the internet or browsers. That is why I use a tool called [IFTTT(If this then that)](https://ifttt.com/medium), which helps me a lot! As you can see in the earlier visualization, it helps me with 4 of my sources!
+As I wrote in [the earlier article](https://vongohren.me/posts/how-i-put-a-process-on-life/), I need to have it all in one source and not scattered across the internet or browsers. That is why I use a tool called [IFTTT(If this then that)](https://ifttt.com/medium), which helps me a lot! As you can see in the earlier visualization, it helps me with 4 of my sources!
 
 But because Medium has this function called bookmarking, I'm able to do this with one simple click of a button. And not have to copy the URL and paste it somewhere or anything. It has to be fast, or it becomes to tedious.
 
 ![Picture of an article with a bookmark function](https://firebasestorage.googleapis.com/v0/b/vongohren-website.appspot.com/o/Screenshot_20191104-225333.png?alt=media&token=b935f721-e6f8-4201-9d2c-c6403a05788b)
 
-This you can utilize and plug through IFTTT and send that data wherever you want to. Making sure you don’t leave small breadcrumbs all over the place for you to think about and have to pick up.  But rather pull it into one almighty source, which would be Trello for me!
+This bookmark click and registration, you can utilize and plug through IFTTT and send that data wherever you want to. Making sure you don’t leave small breadcrumbs all over the place for you to think about and have to pick up.  But rather pull it into one almighty source, which would be Trello for me!
 
 Below you can see the recipe and stats around this function. It is quite simple to set up, and it is all free!
 
@@ -101,6 +101,6 @@ I even see that, when reading these articles, and noting down, both highligtes a
 
 All these things are creating value in both efficiency and overview,  for me in many ways. That allows me to use my time on doing other things I care about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2Njk3NjI2LDIxMzUyODQyNDQsMjA0ND
+eyJoaXN0b3J5IjpbMzQyNzA5MjkxLDIxMzUyODQyNDQsMjA0ND
 Q0Mjg3NCwtMTQ4Njg0OTgwMl19
 -->
