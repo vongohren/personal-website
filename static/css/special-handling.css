@@ -15,3 +15,7 @@ h4 a {
 .container.post a {
     text-decoration: underline;
 }
+
+.underline {
+    text-decoration: underline !important;
+}
