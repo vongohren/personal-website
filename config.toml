@@ -11,6 +11,7 @@ pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
 disqusShortname = "vongohren" # Enable or disable Disqus
+googleAnalytics: UA-179101516-1
 
 [markup.goldmark.renderer]
 unsafe= true
