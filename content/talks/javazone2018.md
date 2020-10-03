@@ -1,5 +1,5 @@
 ---
-title: "Javazone"
+title: "Javazone talk about blockchain and identity"
 description: "My blockchain talk at JavaZone 2017"
 date: "2017-09-13"
 categories:
