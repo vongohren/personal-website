@@ -1,3 +1,6 @@
+# Code and CI hosted at
+https://gitlab.com/vongohren/personal-webpage
+
 # Writing posts
 I can do that through stackedit
 https://stackedit.io/app#
